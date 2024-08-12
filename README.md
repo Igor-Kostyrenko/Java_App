@@ -27,16 +27,16 @@
 
 #### Add Git repositori
 <p align="center">
- <img width="400px" src="addgit.png" alt="qr"/>
+ <img width="400px" src="/Jenkins/addgit.png" alt="qr"/>
 </p>
 
 
 #### Configure Java and Maven
 
 <p align="center">
- <img width="400px" src="java_cfg.png" alt="qr"/>
+ <img width="400px" src="/Jenkins/java_cfg.png" alt="qr"/>
 </p>
 
 <p align="center">
- <img width="400px" src="maven_cfg.png" alt="qr"/>
+ <img width="400px" src="/Jenkins/maven_cfg.png" alt="qr"/>
 </p>
