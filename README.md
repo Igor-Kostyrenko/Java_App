@@ -25,4 +25,18 @@
 
 1. Install and configure Jenkins
 
+#### Add Git repositori
+<p align="center">
+ <img width="400px" src="addgit.png" alt="qr"/>
+</p>
 
+
+#### Configure Java and Maven
+
+<p align="center">
+ <img width="400px" src="java_cfg.png" alt="qr"/>
+</p>
+
+<p align="center">
+ <img width="400px" src="maven_cfg.png" alt="qr"/>
+</p>
