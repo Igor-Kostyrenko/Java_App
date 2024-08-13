@@ -26,23 +26,23 @@
 1. Install and configure Jenkins
 
 #### Add Git repositori
-<p align="center">
- <img width="400px" src="/Jenkins/addgit.png" alt="qr"/>
+<p align="left">
+ <img width="600px" src="/Jenkins/addgit.png" alt="qr"/>
 </p>
 
 
 #### Configure Java and Maven
 
 <p align="left">
- <img width="400px" src="/Jenkins/java_cfg.png" alt="qr"/>
+ <img width="600px" src="/Jenkins/java_cfg.png" alt="qr"/>
 </p>
 
 <p align="left">
- <img width="400px" src="/Jenkins/maven_cfg.png" alt="qr"/>
+ <img width="600px" src="/Jenkins/maven_cfg.png" alt="qr"/>
 </p>
 
 #### Configure Docker and Ansible integration
 
 <p align="left">
- <img width="400px" src="/Jenkins/docker_ans_int.png" alt="qr"/>
+ <img width="600px" src="/Jenkins/docker_ans_int.png" alt="qr"/>
 </p>
