@@ -33,10 +33,16 @@
 
 #### Configure Java and Maven
 
-<p align="center">
+<p align="left">
  <img width="400px" src="/Jenkins/java_cfg.png" alt="qr"/>
 </p>
 
-<p align="center">
+<p align="left">
  <img width="400px" src="/Jenkins/maven_cfg.png" alt="qr"/>
+</p>
+
+#### Configure Docker and Ansible integration
+
+<p align="left">
+ <img width="400px" src="/Jenkins/docker_ans_int.png" alt="qr"/>
 </p>
